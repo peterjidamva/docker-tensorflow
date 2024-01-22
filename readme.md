@@ -6,6 +6,7 @@ REF: https://www.tensorflow.org/install/docker
 ## Method 1 (Not recommended)
 Manual installation of tensorflow as a python package.
 - Not implemented
+Due to size of the package better have a separate base image that is to be used in an application image
 
 ## Method 2 (Recommended)
 
